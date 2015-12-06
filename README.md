@@ -7,7 +7,6 @@ please see the notes about configuration [here](https://github.com/matthewphilya
 Demo expects motors on :m2, :m3
 ```elixir
 config :motor_hat,
-  i2c: I2c,
   boards: [
     [name: :mhat, devname: "i2c-1", address: 0x60, motor_config: {:dc, [:m2, :m3]}]
   ]

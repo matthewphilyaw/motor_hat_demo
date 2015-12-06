@@ -20,8 +20,7 @@ remember to run mix deps.get
 from Iex you can run:
 
 ```shell
-# Depending on your setup you may or may not need this, I run arch linux and don't run as root.
-  ~ sudo iex -S mix
+  ~ iex -S mix
 Erlang/OTP 18 [erts-7.1] [source] [smp:4:4] [async-threads:10] [hipe] [kernel-poll:false]
 
 Interactive Elixir (1.1.1) - press Ctrl+C to exit (type h() ENTER for help)
@@ -51,7 +50,7 @@ iex(2)>
 you can also run it without a shell:
 
 ```shell
-  ~ sudo mix run -e MotorHatDemo.demo
+  ~ mix run -e MotorHatDemo.demo
 
 22:44:36.981 [debug] m1, m4 going forward min to max
 

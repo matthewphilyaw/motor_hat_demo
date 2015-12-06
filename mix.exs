@@ -28,7 +28,7 @@ defmodule MotorHatDemo.Mixfile do
   # Type "mix help deps" for more examples and options
   defp deps do
     [
-      {:motor_hat, "~> 0.5.2"}
+      {:motor_hat, "~> 0.6.0"}
 	]
   end
 end

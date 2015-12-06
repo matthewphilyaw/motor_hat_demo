@@ -1,0 +1,2 @@
+%{"elixir_ale": {:hex, :elixir_ale, "0.4.0"},
+  "motor_hat": {:hex, :motor_hat, "0.5.2"}}

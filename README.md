@@ -1,6 +1,6 @@
 # MotorHatDemo
 
-### Configuration
+## Configuration
 
 please see the notes about configuration [here](https://github.com/matthewphilyaw/motor_hat/blob/252fcbd868406144b654932b75e4a2b8f16748fb/README.md) 
 
